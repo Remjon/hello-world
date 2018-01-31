@@ -1,2 +1,5 @@
 # hello-world
-first program "Hello world!"
+
+This first program in Java "Hello world!"
+
+Thank you!
